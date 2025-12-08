@@ -1,6 +1,4 @@
-# Data-Analyst-Internship
-
-original datase-too big to upload in github so i will add a drive link below
+Original datase-too big to upload in github so i added drive link below
 
 original raw car_sales dataset = https://drive.google.com/file/d/1q2PRSjbswZNISslnpzi-4f8elklX7GIY/view?usp=sharing
 
@@ -18,4 +16,6 @@ Data Type Conversion: Converted columns to appropriate types — year to integer
 
 Column Renaming: Renamed all column headers to a uniform format(lowercase to title).
 
-Final Output: Produced a clean, structured dataset ready for analysis or modeling.
+Final Output: Produced a clean, structured dataset ready for analysis or modeling. I have used the same dataset that i cleaned in the previous task,i upload it in powerbi and started creating different charts for different fields. I have created two pages in powerbi one is dashboard and other one is summary page I will upload the dataset google drive link below as it is too big to upload in the github
+
+dataset link = https://drive.google.com/file/d/1yPw9CSfc9sPRQx07jM6IFpwhU3Ztwwu5/view?usp=drive_link

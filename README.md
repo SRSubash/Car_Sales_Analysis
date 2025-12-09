@@ -1,6 +1,5 @@
-Original datase-too big to upload in github so i added drive link below
 
-original raw car_sales dataset = https://drive.google.com/file/d/1q2PRSjbswZNISslnpzi-4f8elklX7GIY/view?usp=sharing
+Original raw car_sales dataset = https://drive.google.com/file/d/1q2PRSjbswZNISslnpzi-4f8elklX7GIY/view?usp=sharing
 
 cleaned car_sales dataset = https://drive.google.com/file/d/1yPw9CSfc9sPRQx07jM6IFpwhU3Ztwwu5/view?usp=sharing
 
